@@ -1,0 +1,58 @@
+pragma solidity ^0.8.0;
+
+contract shibasspaceticketswhitepaper{
+
+    string public greet = "In the not so distant future..."
+
+"The human race is already an interplanetary race, mastering the technology necessary to maintain life beyond Earth. Human presence in Earth orbit, on the moon, Mars and beyond is already a constant, both for scientific research purposes and for tourist purposes."
+
+"As a tribute to the dog LAIKA, who in the past was sent as a guinea pig and had a tragic death at the beginning of space exploration, this time Shibas Inu, the mascot dog breed of the new era of space exploration, were sent to all stages of the human conquest of space: suborbital flight, orbital flight, space hotel, lunar orbital flight, moon landing, mars, and beyond. However, unlike in the past, they were sent with the necessary security already well established, guaranteeing their return with health integrity."
+
+"What was not expected was that the shiba race had a mutation in their DNA, and when exposed to radiation from space, they developed a superintelligence, with the ability to think equal to or better than that of a human. With this acquired super intelligence, and with the pressure of the animal support entities, human beings came to the conclusion of giving the shibas a territory on our planet, for them to have a country, with the condition of being peaceful, which was called Shibaland."
+
+"The traditional global economy at this point collapsed, with high inflation and government incompetence. Shibaland, seeing the rest of the world's financial system fail, decided to adopt cryptocurrencies, NFTs and web 3.0 as a whole as the predominant financial medium in the foundation of his country."
+
+"With the prominence and growth of Shibaland through the use of this new economy, the country started to develop its own space program, and gained strength in other research sectors, in several areas, such as artificial intelligence, nuclear energy, and the main one: time travel."
+
+"In the midst of many tests to prove time travel, the shibas tried the experiment of sending back in time a collection of their own nfts, which are space tickets, and a manual or roadmap, guiding the steps of how to make the project happen."
+
+"The sending of this collection and this orientation letter had a scientific-financial purpose of showing humanity the paths to a new way of thinking about the exchange system, and also a social purpose of allowing people with limited financial conditions to travel to space, how the shibas had this opportunity, because the perspective of life that the space will cause in the lives of these people, will inspire them to produce artistic and scientific content, which in turn, will inspire the next generations to always dream more."
+
+"With this contextualization of the collection, follow the shibas guidelines for what we should do with it, step by step:"
+
+"until 25% - the amount collected is destined to the project administrators, who received the collection from the future, so that they remain firm in the mission proposed by the shibas;"
+
+"25% - Release of exclusive access to the store with shibas products for ticket holders."
+
+"50% - With the project already initially validated, the first round of investments is made with specialized investors in the space sector;"
+
+"75% - Release of videos with shibas messages from the future, revealing the technological reality of the time;"
+
+"100% - ICO (Initial Coin Offer) for the community, with preference for older holders, and first suborbital flight draw, for all holders of all Shiba's Space Tickets."
+
+"The project may have an increment of novelties in its sales stages."
+
+"From that moment on, periodical space travel raffles will be held, according to market availability and the technological stage of development of the space industry."
+
+"The criteria for participating in the sweepstakes are as follows:"
+
+"Suborbital flight - All holders of all categories;"
+
+"Orbital Flight - All holders except suborbital flight holders;"
+
+"Space Hotel - All holders except suborbital and orbital flight holders."
+
+"Lunar Orbit - Ticket holders: Lunar Orbit, Lunar Landing, Mars and beyond."
+
+"Lunar Landing - The ticket holders: moon landing, mars, and beyond."
+
+"Mars - The ticket holders: mars and beyond."
+
+"Beyond - The ticket holders beyond."
+
+
+"Get your ticket at: https://opensea.io/collection/shibas-space-tickets"
+
+;
+  
+}
